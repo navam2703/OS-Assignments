@@ -1,4 +1,4 @@
-# OS_Assignment
+# OS-Assignment
 CS F372 Operating Systems Assignment to emulate scheduling.
 ## TODO
 - [x] Setup processes and threads
