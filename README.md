@@ -1,5 +1,5 @@
 # OS-Assignment
-CS F372 Operating Systems Assignment to emulate scheduling.
+CS F372 Operating Systems Assignment to emulate FCFS and RR scheduling.
 ## TODO
 - [x] Setup processes and threads
 - [x] FCFS Implementation
